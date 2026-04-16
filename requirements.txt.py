@@ -5,4 +5,4 @@ matplotlib
 seaborn
 scipy
 PyPortfolioOpt
-anthropic
+anthropic>=0.25.0
